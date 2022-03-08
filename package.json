@@ -1,0 +1,25 @@
+{
+  "name": "ksd.po",
+  "version": "1.0.0",
+  "description": "KSDPD Prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ubendrum/PODemo.git"
+  },
+  "keywords": [
+    "ui"
+  ],
+  "author": "ubendrum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ubendrum/PODemo/issues"
+  },
+  "homepage": "https://github.com/ubendrum/PODemo#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
